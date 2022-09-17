@@ -1,0 +1,53 @@
+Date : 2022-09-09 08:13:06
+Directory : c:\Users\onory\dev\classroom33admin\lib
+Total : 20 files,  -1688 codes, -35 comments, -87 blanks, all -1810 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |         20 |     -1,688 |        -35 |        -87 |     -1,810 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                             | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                |         20 |     -1,688 |        -35 |        -87 |     -1,810 |
+| extension                                                                        |          2 |        -38 |          0 |         -5 |        -43 |
+| page                                                                             |          3 |        146 |          3 |          5 |        154 |
+| provider                                                                         |          4 |     -1,510 |         -4 |        -22 |     -1,536 |
+| provider\projector                                                               |          1 |        -25 |         -4 |         -8 |        -37 |
+| schema                                                                           |          7 |       -238 |        -31 |        -57 |       -326 |
+| schema\question                                                                  |          3 |        -76 |        -11 |        -17 |       -104 |
+| schema\state                                                                     |          1 |        -38 |         -7 |        -11 |        -56 |
+| schema\user                                                                      |          3 |       -124 |        -13 |        -29 |       -166 |
+| utils                                                                            |          3 |        -50 |         -3 |         -9 |        -62 |
++----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                         | language | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\onory\dev\classroom33admin\lib\extension\correct_answer.dart            | Dart     |        -10 |          0 |         -2 |        -12 |
+| c:\Users\onory\dev\classroom33admin\lib\extension\position_color.dart            | Dart     |        -28 |          0 |         -3 |        -31 |
+| c:\Users\onory\dev\classroom33admin\lib\main.dart                                | Dart     |          2 |          0 |          1 |          3 |
+| c:\Users\onory\dev\classroom33admin\lib\page\main.dart                           | Dart     |         63 |          1 |          1 |         65 |
+| c:\Users\onory\dev\classroom33admin\lib\page\result.dart                         | Dart     |         81 |          2 |          2 |         85 |
+| c:\Users\onory\dev\classroom33admin\lib\page\user_register.dart                  | Dart     |          2 |          0 |          2 |          4 |
+| c:\Users\onory\dev\classroom33admin\lib\provider\big_question_storage.dart       | Dart     |     -1,431 |          0 |         -5 |     -1,436 |
+| c:\Users\onory\dev\classroom33admin\lib\provider\projector\timer_provider.dart   | Dart     |        -25 |         -4 |         -8 |        -37 |
+| c:\Users\onory\dev\classroom33admin\lib\provider\state_item.dart                 | Dart     |        -23 |          0 |         -5 |        -28 |
+| c:\Users\onory\dev\classroom33admin\lib\provider\users.dart                      | Dart     |        -31 |          0 |         -4 |        -35 |
+| c:\Users\onory\dev\classroom33admin\lib\schema\question\big_question_item.dart   | Dart     |        -28 |         -5 |         -7 |        -40 |
+| c:\Users\onory\dev\classroom33admin\lib\schema\question\question_category.dart   | Dart     |        -19 |          0 |         -4 |        -23 |
+| c:\Users\onory\dev\classroom33admin\lib\schema\question\small_question_item.dart | Dart     |        -29 |         -6 |         -6 |        -41 |
+| c:\Users\onory\dev\classroom33admin\lib\schema\state\state.dart                  | Dart     |        -38 |         -7 |        -11 |        -56 |
+| c:\Users\onory\dev\classroom33admin\lib\schema\user\small_question_result.dart   | Dart     |        -38 |         -3 |         -7 |        -48 |
+| c:\Users\onory\dev\classroom33admin\lib\schema\user\user_model.dart              | Dart     |        -69 |        -10 |        -18 |        -97 |
+| c:\Users\onory\dev\classroom33admin\lib\schema\user\user_register_model.dart     | Dart     |        -17 |          0 |         -4 |        -21 |
+| c:\Users\onory\dev\classroom33admin\lib\utils\colors.dart                        | Dart     |          0 |          0 |         -1 |         -1 |
+| c:\Users\onory\dev\classroom33admin\lib\utils\logger.dart                        | Dart     |          0 |          0 |         -1 |         -1 |
+| c:\Users\onory\dev\classroom33admin\lib\utils\provider_logger.dart               | Dart     |        -50 |         -3 |         -7 |        -60 |
+| Total                                                                            |          |     -1,688 |        -35 |        -87 |     -1,810 |
++----------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
